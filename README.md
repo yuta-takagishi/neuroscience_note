@@ -1,1 +1,1 @@
-# neuroscience_note
+# neuroscience-notes
